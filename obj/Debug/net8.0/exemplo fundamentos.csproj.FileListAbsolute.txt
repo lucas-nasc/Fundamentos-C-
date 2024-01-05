@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\exemplo fundamentos\bin\Debug\net8.0\exemplo fundamentos.exe
+C:\Users\User\Desktop\exemplo fundamentos\bin\Debug\net8.0\exemplo fundamentos.deps.json
+C:\Users\User\Desktop\exemplo fundamentos\bin\Debug\net8.0\exemplo fundamentos.runtimeconfig.json
+C:\Users\User\Desktop\exemplo fundamentos\bin\Debug\net8.0\exemplo fundamentos.dll
+C:\Users\User\Desktop\exemplo fundamentos\bin\Debug\net8.0\exemplo fundamentos.pdb
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.AssemblyInfo.cs
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.dll
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\refint\exemplo fundamentos.dll
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.pdb
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\exemplo fundamentos.genruntimeconfig.cache
+C:\Users\User\Desktop\exemplo fundamentos\obj\Debug\net8.0\ref\exemplo fundamentos.dll
